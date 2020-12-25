@@ -1,0 +1,1 @@
+data = '{"ua":"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-us) AppleWebKit/531.21.11 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10","browser":{"name":"Safari","version":"4.0.4","major":"4"},"engine":{"name":"WebKit","version":"531.21.11"},"os":{"name":"Mac OS","version":"10.6.3"},"device":{},"cpu":{}}';
